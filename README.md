@@ -1,5 +1,5 @@
-# 3ª Jornada
+# 3ª Jornada #
 
-## Profª Louise Goes - bióloga de formação que atua com Pensamento Computacional e Programação
+## Profª Louise Goes - bióloga de formação que atua com Pensamento Computacional e Programação ##
 
-### Site criado na 3 Jornada no GE- Formadores em Ação, sobre filmes de curta metragem, os famosos "SparkShorts". 
+### Site criado na 3 Jornada no GE- Formadores em Ação, sobre Inteligencias Artificiais ###
